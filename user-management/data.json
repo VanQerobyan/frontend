@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Arman",
+      "surname": "Petrosyan",
+      "gender": "male",
+      "salary": 85000,
+      "profession": "Frontend Developer"
+    },
+    {
+      "id": "2",
+      "name": "Anna",
+      "surname": "Hakobyan",
+      "gender": "female",
+      "salary": 72000,
+      "profession": "UI/UX Designer"
+    },
+    {
+      "id": "3",
+      "name": "David",
+      "surname": "Grigoryan",
+      "gender": "male",
+      "salary": 95000,
+      "profession": "Backend Developer"
+    },
+    {
+      "id": "4",
+      "name": "Mariam",
+      "surname": "Sargsyan",
+      "gender": "female",
+      "salary": 68000,
+      "profession": "Project Manager"
+    },
+    {
+      "id": "5",
+      "name": "Hayk",
+      "surname": "Karapetyan",
+      "gender": "male",
+      "salary": 110000,
+      "profession": "Software Engineer"
+    },
+    {
+      "id": "6",
+      "name": "Nare",
+      "surname": "Mkrtchyan",
+      "gender": "female",
+      "salary": 79000,
+      "profession": "QA Engineer"
+    },
+    {
+      "id": "7",
+      "name": "Gor",
+      "surname": "Avetisyan",
+      "gender": "male",
+      "salary": 91000,
+      "profession": "DevOps Engineer"
+    },
+    {
+      "id": "8",
+      "name": "Lilit",
+      "surname": "Manukyan",
+      "gender": "female",
+      "salary": 76000,
+      "profession": "Product Designer"
+    },
+    {
+      "id": "9",
+      "name": "Tigran",
+      "surname": "Hovhannisyan",
+      "gender": "male",
+      "salary": 125000,
+      "profession": "Full Stack Developer"
+    },
+    {
+      "id": "10",
+      "name": "Sona",
+      "surname": "Vardanyan",
+      "gender": "female",
+      "salary": 83000,
+      "profession": "Data Analyst"
+    },
+    {
+      "name": "Aram",
+      "surname": "Karapetyan",
+      "salary": 75000,
+      "profession": "Software Engineer",
+      "gender": "male",
+      "id": "oJqSpqUDsLY"
+    },
+    {
+      "name": "Karen",
+      "surname": "Hakopyan",
+      "salary": 15000,
+      "profession": "Software Engineer",
+      "gender": "male",
+      "id": "Bs3PqoXRmws"
+    },
+    {
+      "name": "Hayk",
+      "surname": "Hakopyan",
+      "salary": 25000,
+      "profession": "Product Designer",
+      "gender": "male",
+      "id": "jF5F97uQ7oQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
