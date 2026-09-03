@@ -103,7 +103,14 @@
       "profession": "Product Designer",
       "gender": "male",
       "id": "jF5F97uQ7oQ"
+    },
+    {
+      "name": "Karen",
+      "surname": "Hakopyan",
+      "salary": 15000,
+      "profession": "Product Designer",
+      "gender": "male",
+      "id": "-g9w-zwZv10"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
