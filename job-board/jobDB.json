@@ -1,0 +1,104 @@
+{
+   "jobs":[ 
+  {
+    "id": 1,
+    "title": "Junior Frontend Developer",
+    "company": "TechVision",
+    "location": "Yerevan, Armenia",
+    "salary": "$700 - $1000",
+    "type": "Full-time",
+    "category": "Frontend",
+    "description": "We are looking for a motivated Junior Frontend Developer to join our growing development team. You will work on modern and responsive web applications, create reusable UI components, fix bugs, and collaborate with designers and backend developers. The ideal candidate should have a good understanding of HTML, CSS, JavaScript and React. You will have the opportunity to work on real-world projects, improve your coding skills, learn modern development practices and grow together with an experienced team."
+  },
+  {
+    "id": 2,
+    "title": "React Developer",
+    "company": "CodeLab",
+    "location": "Yerevan, Armenia",
+    "salary": "$1000 - $1500",
+    "type": "Full-time",
+    "category": "Frontend",
+    "description": "CodeLab is looking for a React Developer to help us build modern and scalable web applications. In this role, you will develop reusable React components, manage application state, work with REST APIs and improve the overall user experience. You will collaborate closely with designers, backend developers and other frontend engineers. Experience with JavaScript, React, TypeScript and Git is preferred. This position provides an excellent opportunity to work on challenging projects and develop your professional frontend skills."
+  },
+  {
+    "id": 3,
+    "title": "Backend Developer",
+    "company": "SoftHouse",
+    "location": "Yerevan, Armenia",
+    "salary": "$1200 - $1800",
+    "type": "Full-time",
+    "category": "Backend",
+    "description": "SoftHouse is searching for a Backend Developer to join our engineering team and help build reliable server-side applications. Your responsibilities will include developing REST APIs, implementing business logic, working with databases and maintaining existing backend services. You will work with Node.js and Express and collaborate with frontend developers to create complete web applications. We are looking for someone who understands JavaScript, asynchronous programming, HTTP and basic database concepts and is interested in continuously improving their backend development skills."
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Designer",
+    "company": "Creative Studio",
+    "location": "Remote",
+    "salary": "$800 - $1300",
+    "type": "Part-time",
+    "category": "Design",
+    "description": "Creative Studio is looking for a talented UI/UX Designer who can create clean, intuitive and visually appealing digital experiences. You will be responsible for designing interfaces for web and mobile applications, creating wireframes and prototypes, and improving existing user experiences. You will work closely with developers and product managers throughout the design process. The ideal candidate should have a good understanding of user-centered design, typography, layouts and modern interface design principles."
+  },
+  {
+    "id": 5,
+    "title": "Full Stack Developer",
+    "company": "WebWorks",
+    "location": "Yerevan, Armenia",
+    "salary": "$1500 - $2200",
+    "type": "Full-time",
+    "category": "Full Stack",
+    "description": "WebWorks is hiring a Full Stack Developer to work on both frontend and backend parts of modern web applications. You will build user interfaces with React, develop server-side functionality with Node.js and Express, and work with databases and REST APIs. You will participate in planning, development, testing and maintenance of applications. We are looking for a developer who enjoys solving problems, understands the complete web development process and is comfortable working across different parts of a project."
+  },
+  {
+    "id": 6,
+    "title": "QA Engineer",
+    "company": "QualitySoft",
+    "location": "Yerevan, Armenia",
+    "salary": "$700 - $1100",
+    "type": "Full-time",
+    "category": "QA",
+    "description": "QualitySoft is looking for a QA Engineer to help ensure that our web applications are stable, reliable and easy to use. You will create and execute test cases, identify and document bugs, perform regression testing and work closely with developers to resolve issues. You will also participate in the testing process throughout the development lifecycle and help improve product quality. Attention to detail, analytical thinking and a basic understanding of web applications are important for this position."
+  },
+  {
+    "id": 7,
+    "title": "Junior JavaScript Developer",
+    "company": "DevStudio",
+    "location": "Remote",
+    "salary": "$600 - $900",
+    "type": "Full-time",
+    "category": "Frontend",
+    "description": "DevStudio is offering an opportunity for a Junior JavaScript Developer who wants to start or grow their professional career in web development. You will work with JavaScript to create interactive web applications, implement new features, fix existing problems and communicate with other developers. Knowledge of HTML, CSS, JavaScript and basic React concepts is expected. You will receive guidance from experienced developers and have the opportunity to work on practical projects while developing strong programming and problem-solving skills."
+  },
+  {
+    "id": 8,
+    "title": "Product Designer",
+    "company": "DigitalFlow",
+    "location": "Yerevan, Armenia",
+    "salary": "$1000 - $1600",
+    "type": "Full-time",
+    "category": "Design",
+    "description": "DigitalFlow is looking for a Product Designer to help create simple and engaging experiences for our digital products. You will research user needs, create user flows, design interfaces and develop interactive prototypes. You will work closely with product managers, developers and other designers to transform ideas into useful and attractive products. The ideal candidate should have strong visual and communication skills, an understanding of UX principles and the ability to explain design decisions clearly."
+  },
+  {
+    "id": 9,
+    "title": "Node.js Developer",
+    "company": "BackendPro",
+    "location": "Remote",
+    "salary": "$1300 - $1900",
+    "type": "Full-time",
+    "category": "Backend",
+    "description": "BackendPro is looking for a Node.js Developer to build and maintain reliable backend services for modern web applications. You will develop REST APIs, implement authentication and authorization, work with databases and improve existing server-side functionality. You will also collaborate with frontend developers and participate in code reviews and technical discussions. Strong knowledge of JavaScript, Node.js, Express and asynchronous programming is expected, while experience with PostgreSQL or other databases is considered an advantage."
+  },
+  {
+    "id": 10,
+    "title": "Frontend Intern",
+    "company": "StartUp Hub",
+    "location": "Yerevan, Armenia",
+    "salary": "$300 - $500",
+    "type": "Internship",
+    "category": "Frontend",
+    "description": "StartUp Hub is looking for a Frontend Intern who is interested in learning web development by working on real projects with an experienced team. You will help create and improve web pages, build reusable components, fix simple UI issues and learn how frontend applications communicate with backend services. Basic knowledge of HTML, CSS and JavaScript is required, while React knowledge is a plus. This internship is designed for beginners who want to gain practical experience, improve their programming skills and understand how professional development teams work."
+  }
+]
+}
