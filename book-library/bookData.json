@@ -1,0 +1,105 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "year": 2008,
+      "genre": "Programming",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR07i2oZ1epcmtESztAO5gf6dHugVMPIbtRJinehnAnc0EByHhxRysVzBEb&s=10",
+      "read": true,
+      "favorite": true
+    },
+    {
+      "id": "2",
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "year": 1999,
+      "genre": "Programming",
+      "image": "https://i.ebayimg.com/images/g/OyUAAeSwh5lp49v9/s-l1200.jpg",
+      "read": false,
+      "favorite": true
+    },
+    {
+      "id": "3",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "genre": "Classic",
+      "read": false,
+      "favorite": false,
+      "image": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg"
+    },
+    {
+      "id": "4",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "year": 1937,
+      "genre": "Fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+      "read": false,
+      "favorite": true
+    },
+    {
+      "id": "5",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "genre": "Classic",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81TLiZrasVL.jpg",
+      "read": true,
+      "favorite": false
+    },
+    {
+      "id": "6",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "year": 1997,
+      "genre": "Fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81iqZ2HHD-L.jpg",
+      "read": true,
+      "favorite": true
+    },
+    {
+      "id": "7",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "year": 1988,
+      "genre": "Adventure",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg",
+      "read": false,
+      "favorite": false
+    },
+    {
+      "id": "8",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "genre": "Classic",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+      "read": true,
+      "favorite": false
+    },
+    {
+      "id": "9",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "year": 2018,
+      "genre": "Self-Help",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81bGKUa1e0L.jpg",
+      "read": false,
+      "favorite": true
+    },
+    {
+      "id": "10",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "year": 1965,
+      "genre": "Science Fiction",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81ym3QUd3KL.jpg",
+      "read": false,
+      "favorite": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
