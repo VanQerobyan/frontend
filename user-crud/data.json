@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "Ani",
+    "surname": "Petrosyan",
+    "age": 24,
+    "gender": "male",
+    "salary": 280000,
+    "about": "Frontend developer who enjoys building modern web applications.",
+    "location": "Yerevan"
+  },
+  {
+    "id": "2",
+    "name": "Hovhannes",
+    "surname": "Hakobyan",
+    "age": 22,
+    "gender": "female",
+    "salary": 280000,
+    "about": "UI/UX designer interested in clean and user-friendly interfaces.",
+    "location": "Gyumri"
+  },
+  {
+    "id": "3",
+    "name": "Davit",
+    "surname": "Hovsepyan",
+    "age": 31,
+    "gender": "male",
+    "salary": 450000,
+    "about": "Backend developer working with Node.js and PostgreSQL.",
+    "location": "Yerevan"
+  },
+  {
+    "id": "4",
+    "name": "Mariam",
+    "surname": "Grigoryan",
+    "age": 27,
+    "gender": "female",
+    "salary": 350000,
+    "about": "Project manager with experience in software development teams.",
+    "location": "Vanadzor"
+  },
+  {
+    "id": "5",
+    "name": "Narek",
+    "surname": "Avetisyan",
+    "age": 30,
+    "gender": "male",
+    "salary": 500000,
+    "about": "Full-stack developer focused on React, TypeScript and Node.js.",
+    "location": "Yerevan"
+  },
+  {
+    "id": "6",
+    "name": "Lilit",
+    "surname": "Martirosyan",
+    "age": 24,
+    "gender": "female",
+    "salary": 240000,
+    "about": "Junior frontend developer learning React and Next.js.",
+    "location": "Abovyan"
+  },
+  {
+    "id": "7",
+    "name": "Gor",
+    "surname": "Karapetyan",
+    "age": 33,
+    "gender": "male",
+    "salary": 600000,
+    "about": "Software engineer interested in scalable web applications.",
+    "location": "Yerevan"
+  },
+  {
+    "id": "8",
+    "name": "Sona",
+    "surname": "Manukyan",
+    "age": 29,
+    "gender": "female",
+    "salary": 410000,
+    "about": "QA engineer focused on automated and manual software testing.",
+    "location": "Hrazdan"
+  },
+  {
+    "id": "9",
+    "name": "Tigran",
+    "surname": "Mkrtchyan",
+    "age": 26,
+    "gender": "male",
+    "salary": 300000,
+    "about": "JavaScript developer who enjoys solving algorithmic problems.",
+    "location": "Yerevan"
+  },
+  {
+    "id": "10",
+    "name": "Eva",
+    "surname": "Harutyunyan",
+    "age": 32,
+    "gender": "female",
+    "salary": 520000,
+    "about": "Product designer with experience in web and mobile applications.",
+    "location": "Dilijan"
+  },
+  {
+    "id": "11",
+    "name": "Karen",
+    "surname": "Mesropyan",
+    "age": 22,
+    "salary": 25500,
+    "gender": "male",
+    "location": "Yerevan",
+    "about": "asnkdasmd[aosd"
+  },
+  {
+    "id": "12",
+    "name": "Hayk",
+    "surname": "Mesropyan",
+    "age": 22,
+    "salary": 250000,
+    "gender": "male",
+    "location": "Yerevan",
+    "about": "Student"
+  },
+  {
+    "id": "13",
+    "name": "Aram",
+    "surname": "Karapetyan",
+    "age": 25,
+    "salary": 250000,
+    "gender": "male",
+    "location": "Yerevan",
+    "about": "I am a dentist"
+  },
+  {
+    "id": "14",
+    "name": "Armine",
+    "surname": "Poxosyan",
+    "age": 19,
+    "salary": 15000,
+    "gender": "male",
+    "location": "Yerevan",
+    "about": "Student"
+  }
+]
