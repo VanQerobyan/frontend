@@ -1,0 +1,5 @@
+data/database.sqlite
+node_modules
+front
+public/uploads/**
+.env
