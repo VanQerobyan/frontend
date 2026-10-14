@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Aram",
+      "surname": "Sargsyan",
+      "gender": "male"
+    },
+    {
+      "id": "2",
+      "name": "Ani",
+      "surname": "Grigoryan",
+      "gender": "female"
+    },
+    {
+      "id": "3",
+      "name": "Hayk",
+      "surname": "Petrosyan",
+      "gender": "male"
+    },
+    {
+      "id": "4",
+      "name": "Mariam",
+      "surname": "Hakobyan",
+      "gender": "female"
+    },
+    {
+      "id": "5",
+      "name": "Narek",
+      "surname": "Hovhannisyan",
+      "gender": "male"
+    },
+    {
+      "id": "6",
+      "name": "Lilit",
+      "surname": "Harutyunyan",
+      "gender": "female"
+    },
+    {
+      "id": "7",
+      "name": "Tigran",
+      "surname": "Avetisyan",
+      "gender": "male"
+    },
+    {
+      "id": "8",
+      "name": "Sona",
+      "surname": "Gevorgyan",
+      "gender": "female"
+    },
+    {
+      "id": "9",
+      "name": "David",
+      "surname": "Manukyan",
+      "gender": "male"
+    }
+  ]
+}
